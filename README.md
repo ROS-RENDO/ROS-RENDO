@@ -36,8 +36,6 @@
 
 ---
 
-## ⚡ Architectural Core
-
 
 ---
 
@@ -130,12 +128,15 @@
 <summary><b>🧠 1. Core Languages & Runtimes</b></summary>
 <br/>
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 15px;">
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50"/>
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50"/>
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50"/>
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="48" />&nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="48" />&nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="48" />&nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="48" />
 </div>
+
+<br/>
+
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
@@ -148,9 +149,13 @@
 <summary><b>🎨 2. Frontend, Web3 & Mobile Engineering</b></summary>
 <br/>
 
-![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 15px;"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50"/></div>
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="48" />
+</div>
 
+<br/>
+
+![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82)
 ![Three.js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
@@ -170,10 +175,13 @@
 <summary><b>⚙️ 3. Backend, APIs & Distributed Frameworks</b></summary>
 <br/>
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 15px;">
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50"/>
-  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50"/>
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="48" />&nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="GraphQL" width="48" />
 </div>
+
+<br/>
+
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
@@ -189,9 +197,12 @@
 <summary><b>💾 4. Databases, Caching & ORM</b></summary>
 <br/>
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 15px;">
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50"/>
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="48" />
 </div>
+
+<br/>
+
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -222,10 +233,12 @@
 <summary><b>☁️ 6. Cloud, DevOps & Infrastructure</b></summary>
 <br/>
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 15px;">
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50"/>
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50"/>
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="48" />&nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="48" />
 </div>
+
+<br/>
 
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
@@ -259,14 +272,15 @@
 <summary><b>🔧 8. Engineering Tooling & Workflow</b></summary>
 <br/>
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 15px;">
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50"/>
-  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50"/>
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="48" />&nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="Prettier" width="48" />
 </div>
+
+<br/>
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
 
 </details>
 
