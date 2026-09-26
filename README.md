@@ -130,14 +130,18 @@
 <summary><b>🧠 1. Core Languages & Runtimes</b></summary>
 <br/>
 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 15px;">
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50"/>
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50"/>
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50"/>
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50"/>
+ <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50"/>
+</div>
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 </details>
