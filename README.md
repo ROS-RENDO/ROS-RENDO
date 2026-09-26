@@ -240,17 +240,24 @@
 ## 📊 Live Metrics & Telemetry
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ROS-RENDO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=09090b&title_color=06b6d4&icon_color=06b6d4&text_color=94a3b8" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ROS-RENDO&layout=compact&theme=tokyonight&hide_border=true&bg_color=09090b&title_color=06b6d4&text_color=94a3b8" width="48%" />
+  <img src="https://komarev.com/ghpvc/?username=ROS-RENDO&color=06b6d4&style=for-the-badge&label=PROFILE+VIEWS" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ROS-RENDO&theme=tokyonight&hide_border=true&background=09090b&ring=06b6d4&fire=06b6d4&currStreakLabel=06b6d4" width="97%" />
+  <!-- Official Verified Demolab Streak Stats -->
+  <img src="https://streak-stats.demolab.com/?user=ROS-RENDO&theme=tokyonight&hide_border=true&background=09090b&ring=06b6d4&fire=06b6d4&currStreakLabel=06b6d4" width="98%" />
 </div>
 
----
+<br/>
+
+<div align="center">
+  <!-- Profile & Language Distribution Cards (Verified Working) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ROS-RENDO&theme=tokyonight" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ROS-RENDO&theme=tokyonight" width="48%" />
+</div>
+
 
 <div align="center">
   <sub>🌐 Engineered by <a href="https://portfolio-gold-phi-31.vercel.app/">Ros Rendo</a> • Built with Modern System Architecture</sub>
