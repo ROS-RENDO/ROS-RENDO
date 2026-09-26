@@ -280,9 +280,7 @@
 </div>
 
 
-<div align="center">
-  <sub>🌐 Engineered by <a href="https://portfolio-gold-phi-31.vercel.app/">Ros Rendo</a> • Built with Modern System Architecture</sub>
-</div>
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:3b82f6,100:06b6d4&height=100&section=footer" width="100%" />
@@ -290,3 +288,6 @@
 
 <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FROS-RENDO"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FROS-RENDO&countColor=%23263759" /></a>
 
+<div align="center">
+  <sub>🌐 Engineered by <a href="https://portfolio-gold-phi-31.vercel.app/">Ros Rendo</a> • Built with Modern System Architecture</sub>
+</div>
