@@ -28,7 +28,11 @@
 
 <br/><br/>
 
+
 <div align="center">
+<a href="https://github.com/walidbosso"> 
+ <img align="center" src="./images/city.gif" width="60%" align="center">   
+</a>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="600" />
 </div>
 
