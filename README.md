@@ -1,4 +1,5 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,50:06b6d4,100:09090b&height=200&section=header&text=ROS%20RENDO&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Architect%20%7C%20Distributed%20Systems%20%7C%20AI%20Pipelines&descAlignY=60&descAlign=50&animation=twinkling" width="100%" />
 
 # Ros Rendo
 ### Full-Stack Architect & Systems Engineer
