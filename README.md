@@ -288,3 +288,39 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:3b82f6,100:06b6d4&height=100&section=footer" width="100%" />
 </div>
 
+<div align="center">
+
+```ansi
+[1;36m       _.-""""-._       [0m  [1;32mros@rendo-system[0m
+[1;36m     .'          `.     [0m  --------------------
+[1;36m    /   O      O   \    [0m  [1;34mOS[0m: Arch Linux / macOS Sonoma
+[1;36m   |                |   [0m  [1;34mKernel[0m: x86_64 Linux 6.8.9-arch
+[1;36m   |   \________/   |   [0m  [1;34mUptime[0m: 420 hrs, 13 mins (Building Non-Stop)
+[1;36m    \              /    [0m  [1;34mShell[0m: zsh 5.9 (omz + starship)
+[1;36m     `.          .'     [0m  [1;34mEditor[0m: Neovim / VS Code (Night Owl)
+[1;36m       `-......-'       [0m  [1;34mTerminal[0m: Alacritty / Warp
+                          [1;34mStack[0m: TypeScript, NestJS, Python, Docker
+                          [1;34mMemory[0m: 64GB DDR5 @ 6000MHz
+
+```
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ROS-RENDO/ROS-RENDO/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="95%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ROS-RENDO&theme=tokyonight&layout=compact&hide_border=true&bg_color=09090b&title_color=06b6d4&text_color=94a3b8" width="80%" />
+</div>
+
+<div align="center">
+  <a href="https://spotify.com">
+    <img src="https://novatorem-spotify-readme.vercel.app/api/spotify" alt="Spotify Live Player" width="380px" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://visitorbadge.io/status?path_id=ROS-RENDO.ROS-RENDO">
+    <img src="https://api.visitorbadge.io/api/visitors?path=ROS-RENDO.ROS-RENDO&label=SYSTEM_ACCESS&labelColor=%2309090b&countColor=%2306b6d4&style=plastic" />
+  </a>
+</div>
+
+
