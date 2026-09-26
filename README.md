@@ -1,13 +1,14 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,50:06b6d4,100:09090b&height=200&section=header&text=ROS%20RENDO&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Architect%20%7C%20Distributed%20Systems%20%7C%20AI%20Pipelines&descAlignY=60&descAlign=50&animation=twinkling" width="100%" />
-</div>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=16&duration=2800&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=Building+Scalable+Distributed+Systems;Full-Stack+Web3+%26+Cloud+Microservices;AI+Vision+Pipelines+%26+Autonomous+Agents;Low-Latency+Algorithmic+Engines)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=16&duration=2800&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=Building+Scalable+Distributed+Systems;Full-Stack+Web3+%26+Cloud+Microservices;AI+Vision+Pipelines+%26+Autonomous+Agents;Low-Latency+Algorithmic+Engines)](https://git.io/typing-svg)
 <br/>
 [![Portfolio](https://img.shields.io/badge/Live_Portfolio-06b6d4?style=for-the-badge&logo=vercel&logoColor=black)](https://portfolio-gold-phi-31.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
 [![Email](https://img.shields.io/badge/Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YOUR_DISCORD)
+</div>
+
+
 
 
 ---
