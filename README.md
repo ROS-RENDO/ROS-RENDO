@@ -254,9 +254,6 @@
 
 </details>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ROS-RENDO/ROS-RENDO/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
-</div>
 
 
 ---
@@ -286,3 +283,8 @@
 <div align="center">
   <sub>🌐 Engineered by <a href="https://portfolio-gold-phi-31.vercel.app/">Ros Rendo</a> • Built with Modern System Architecture</sub>
 </div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:3b82f6,100:06b6d4&height=100&section=footer" width="100%" />
+</div>
+
