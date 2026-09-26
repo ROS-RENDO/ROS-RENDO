@@ -29,9 +29,10 @@
 <br/><br/>
 
 <div align="center">
-    <a href="https://github.com/walidbosso"> 
-    <img align="center" src="./images/city.gif" width="60%" align="center">   
+    <a href="https://github.com/ROS-RENDO"> 
+      <img src="https://raw.githubusercontent.com/walidbosso/walidbosso/main/images/city.gif" width="60%" />   
     </a>
+
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="600" />
 </div>
 
@@ -274,24 +275,24 @@
 
 ## 📊 Live Metrics & Telemetry
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ROS-RENDO&color=06b6d4&style=for-the-badge&label=PROFILE+VIEWS" />
-</div>
-
-<br/>
-
-<div align="center">
-  <!-- Official Verified Demolab Streak Stats -->
-  <img src="https://streak-stats.demolab.com/?user=ROS-RENDO&theme=tokyonight&hide_border=true&background=09090b&ring=06b6d4&fire=06b6d4&currStreakLabel=06b6d4" width="98%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <!-- Profile & Language Distribution Cards (Verified Working) -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ROS-RENDO&theme=tokyonight" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ROS-RENDO&theme=tokyonight" width="48%" />
-</div>
+<table width="100%">
+  <tr border="0">
+    <td align="center" width="510">
+      <!--🔝 Rank GitHub Appearance-->
+      <img src="https://gh-readme-profile.vercel.app/api?username=ROS-RENDO&theme=github_dark_tritanopia&border_width=0.1&photo_quality=100&format=svg&hide_issues&border_radius=17.5&hide_border=true&stroke_color=1F6FEB&bg_color=0D1117" />
+      <br/>
+      <!--📏LINE-->
+      <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+      <br/>
+      <!--🏆 GitHub Streak-->
+      <img alt="Mark streak" src="https://streak-stats.demolab.com/?user=ROS-RENDO&theme=github-dark-blue&hide_border=true" />
+    </td>
+    <td align="center" width="510">
+      <!--📙 Languages-->
+      <img align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ROS-RENDO&theme=github_dark&hide_border=true&no-bg=true&no-frame=true&langs_count=8" />
+    </td>
+  </tr>
+</table>
 
 
 
