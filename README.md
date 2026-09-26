@@ -288,13 +288,5 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:3b82f6,100:06b6d4&height=100&section=footer" width="100%" />
 </div>
 
-
-
-<div align="center">
-  <a href="https://visitorbadge.io/status?path_id=ROS-RENDO.ROS-RENDO">
-    <img src="https://api.visitorbadge.io/api/visitors?path=ROS-RENDO.ROS-RENDO&label=SYSTEM_ACCESS&labelColor=%2309090b&countColor=%2306b6d4&style=plastic" />
-  </a>
-</div>
-
 <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FROS-RENDO"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FROS-RENDO&countColor=%23263759" /></a>
 
