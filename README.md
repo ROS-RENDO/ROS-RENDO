@@ -147,7 +147,8 @@
 <br/>
 
 ![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50"/>
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 15px;"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50"/></div>
+
 ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82)
 ![Three.js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
