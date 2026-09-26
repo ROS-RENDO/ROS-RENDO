@@ -254,6 +254,11 @@
 
 </details>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ROS-RENDO/ROS-RENDO/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
+</div>
+
+
 ---
 
 ## 📊 Live Metrics & Telemetry
